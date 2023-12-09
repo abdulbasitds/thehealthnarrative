@@ -1,33 +1,8 @@
 ## Increase in COVID-19 cases among cruise passengers and crew reported to CDC
 
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Since the identification of the Omicron variant, there has been an increase in the number of COVID-19 cases among cruise passengers and crew reported to CDC. Additionally, Outbreaks of COVID-19 have been reported on cruise ships.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Therefore,The COVID-19 Travel Health Notice level has been updated from Level 3 to Level 4, the highest level and has advised to avoid cruise travel, regardless of vaccination status
 
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+![alt text](images/271067709_123086660205524_7563778666625609306_n.jpg)
