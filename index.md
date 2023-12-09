@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+![alt text](images/262329144_111574744690049_4044592806893600071_n-768x768.jpg)
 
-Or maybe what you plan to blog about.
+
+“The health narrative” aims to provide recent health news, medical updates and general information about diseases. 
+
+We regularly write blog posts and social media posts ablout the latest health updates, health tips and more.
+
+Join us to stay informed – the first step to promote global health.
+
+To read the latest health-related posts, visit our.
